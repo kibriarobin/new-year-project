@@ -116,6 +116,9 @@ header{
 .footer-future p{
     color: #FFF;
 }
+.footer-future a{
+    text-decoration: none;
+}
 #future-para{
     margin-top: 16px;
     margin-bottom: 24px;
